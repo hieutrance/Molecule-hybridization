@@ -44,5 +44,5 @@ Inspire future interdisciplinary projects
 
 📸 Screenshot
 
-<img width="660" height="530" alt="Screenshot 2025-09-04 205146" src="https://github.com/user-attachments/assets/128e74b0-e2c2-45c1-a9dd-3bb2ad3f7414" />
+![Demo Screenshot](./assets/screenshot1.png)
 
