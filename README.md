@@ -20,8 +20,9 @@ The main purpose of this project is to **support the Green Chemistry course** an
 
 ## 🛠️ Installation & Running  
 
-### 1️⃣ Clone the repository  
+### 
 ```bash
+1️⃣ Clone the repository  
 git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
 2️⃣ Install dependencies
@@ -43,4 +44,5 @@ Inspire future interdisciplinary projects
 
 📸 Screenshot
 
-<img width="594" height="456" alt="image" src="https://github.com/user-attachments/assets/c8ce1921-9bb5-4b45-9d20-eb4610a636f2" />
+<img width="660" height="530" alt="Screenshot 2025-09-04 205146" src="https://github.com/user-attachments/assets/128e74b0-e2c2-45c1-a9dd-3bb2ad3f7414" />
+
