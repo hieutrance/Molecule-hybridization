@@ -44,5 +44,6 @@ Inspire future interdisciplinary projects
 
 📸 Screenshot
 
-![Alt text](./Screenshot 2025-09-04 205146.png)
+<img src="./images/demo.png" alt="Demo Screenshot" width="400"/>
+
 
