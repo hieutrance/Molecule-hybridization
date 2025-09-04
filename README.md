@@ -44,5 +44,5 @@ Inspire future interdisciplinary projects
 
 📸 Screenshot
 
-![Demo Screenshot](./assets/screenshot1.png)
+![Demo Screenshot](./Screenshot 2025-09-04 205146.png)
 
