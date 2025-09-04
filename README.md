@@ -42,8 +42,5 @@ Build a bridge between Computer Science and Chemistry
 
 Inspire future interdisciplinary projects
 
-📸 Screenshot
-
-<img src="./Screenshot 2025-09-04 205146.png" alt="Demo Screenshot" width="400"/>
 
 
