@@ -23,8 +23,7 @@ The main purpose of this project is to **support the Green Chemistry course** an
 ### 
 ```bash
 1️⃣ Clone the repository  
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/hieutrance/Molecule-hybridization.git
 2️⃣ Install dependencies
 npm install
 3️⃣ Start the development server
